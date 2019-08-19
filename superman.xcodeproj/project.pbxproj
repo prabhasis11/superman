@@ -42,6 +42,7 @@
 				81C85148230AFC4500AA1DB1 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		81C85148230AFC4500AA1DB1 /* Products */ = {
 			isa = PBXGroup;
